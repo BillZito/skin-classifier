@@ -2,3 +2,4 @@ ISIC-2017_Training_Part3_GroundTruth.csv
 ISIC_UDA-1_1
 __pycache__
 .ipynb_checkpoints/
+*.h5
