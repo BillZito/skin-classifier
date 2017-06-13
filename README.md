@@ -3,7 +3,7 @@
 ### 1. Clone and initialize your repo ###
 ```
 git clone https://github.com/billzito/skin-classifier
-cd fast-style-transfer
+cd skin-classifier
 floyd init skin-classifier
 ```
 
